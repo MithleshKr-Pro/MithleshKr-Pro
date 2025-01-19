@@ -1,4 +1,4 @@
-<img align="center" alt="Coding"  src="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX32735112.jpg">
+<img align="center" height="500" alt="Coding"  src="https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX32735112.jpg">
 <h1 align="center">Hello 👋, I'm Mithlesh Kumar</h1>
 <h3 align="center">A passionate frontend + Backend Student developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif">
